@@ -1,0 +1,10 @@
+C:\Users\MadL0ad\source\repos\GATest\GATest\bin\Debug\GATest.exe.config
+C:\Users\MadL0ad\source\repos\GATest\GATest\bin\Debug\GATest.exe
+C:\Users\MadL0ad\source\repos\GATest\GATest\bin\Debug\GATest.pdb
+C:\Users\MadL0ad\source\repos\GATest\GATest\obj\Debug\GATest.csprojAssemblyReference.cache
+C:\Users\MadL0ad\source\repos\GATest\GATest\obj\Debug\GATest.Form1.resources
+C:\Users\MadL0ad\source\repos\GATest\GATest\obj\Debug\GATest.Properties.Resources.resources
+C:\Users\MadL0ad\source\repos\GATest\GATest\obj\Debug\GATest.csproj.GenerateResource.cache
+C:\Users\MadL0ad\source\repos\GATest\GATest\obj\Debug\GATest.csproj.CoreCompileInputs.cache
+C:\Users\MadL0ad\source\repos\GATest\GATest\obj\Debug\GATest.exe
+C:\Users\MadL0ad\source\repos\GATest\GATest\obj\Debug\GATest.pdb
